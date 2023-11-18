@@ -1,0 +1,9 @@
+data_dest: "/Users/mkpjnx/repos/av2-api/downloads/to_export"
+out_dir: "/Users/mkpjnx/repos/av2-api/"
+force_redownload: False
+
+# Preview and render limits
+points_per_frame: 120000
+preview_downsample: 10000
+
+preview_window: 5
